@@ -1,0 +1,6 @@
+{
+  "name": "PXQrGen",
+  "description": "Precision QR code studio for UPI payments, Wi-Fi networks, vCard contacts, URLs, and vector-styled high-resolution exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
